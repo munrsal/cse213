@@ -1,6 +1,6 @@
 
 ## Array Delaration
-'''
+'''c
 int a[10];
 float f[10];
 char str[100];
